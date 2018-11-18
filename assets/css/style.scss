@@ -27,3 +27,13 @@ h2 {
 section {
   border-top: none;
 }
+
+@media print, screen and (max-width: 740px) {
+  body {
+    background: none;
+  }
+
+  .wrapper {
+    margin: 0;
+  }
+}
