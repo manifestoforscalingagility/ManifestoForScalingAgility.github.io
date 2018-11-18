@@ -53,4 +53,4 @@ While there is value in the items on the right and the left; we value the items 
 
 10. Ensure each team is working towards the shared vision and delivering real value regularly and consistently. Demonstrate progress with frequent validations by stakeholders.
 
-Corrections and changes can be submitted at the [GitHub repository](https://github.com/DaneWeber/manifesto-for-scaling-agility-draft).
+_Submit suggestions via the [GitHub repository](https://github.com/DaneWeber/manifesto-for-scaling-agility-draft)._
