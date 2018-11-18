@@ -21,13 +21,13 @@ These concepts require an evolutionary approach that aligns the work of flexible
 
 In our work to help organizations become more agile, we have come to value:
 
-* **Shared vision over aligned processes**
+* **Shared vision** over aligned processes
 
-* **Organic growth over pre-defined structure**
+* **Organic growth** over pre-defined structure
 
-* **High performing organization over high performing teams**
+* **High performing organization** over high performing teams
 
-* **Team-empowered responsibility over organizational policies**
+* **Team-empowered responsibility** over organizational policies
 
 While there is value in the items on the right and the left; we value the items on the left more.
 
