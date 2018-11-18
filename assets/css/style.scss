@@ -9,3 +9,8 @@ html body {
 	background-attachment: fixed;
   background-image:  url("https://upload.wikimedia.org/wikipedia/commons/6/65/Matterhorn-EastAndNorthside-viewedFromZermatt_landscapeformat-2.jpg");
 }
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 3px;
+  padding:0;
+}
