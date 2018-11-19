@@ -56,7 +56,7 @@ While there is value in the items on the right and the left; we value the items 
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
 
 Authored by
-Andrew Jarding,
+[Andrew Jarding](https://www.linkedin.com/in/andrewjarding/),
 [Dane Weber](https://www.linkedin.com/in/daneweber/),
 [Jaap Dekkinga](https://www.linkedin.com/in/jaap-dekkinga/),
 [Nicole Spence-Goon](https://www.linkedin.com/in/nicole-spence-goon-5068871/),
