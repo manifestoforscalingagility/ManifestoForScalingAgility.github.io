@@ -61,7 +61,7 @@ Authored by
 [Jaap Dekkinga](https://www.linkedin.com/in/jaap-dekkinga/),
 [Nicole Spence-Goon](https://www.linkedin.com/in/nicole-spence-goon-5068871/),
 [Paul Boos](https://www.linkedin.com/in/paulboos/),
-& Trent Hone
+& [Trent Hone](https://www.linkedin.com/in/trent-hone-5a42775/)
 with help and support from [Excella](https://www.excella.com) and many of their colleagues.
 
 _Submit suggestions via the [GitHub repository](https://github.com/DaneWeber/manifesto-for-scaling-agility-draft)._
