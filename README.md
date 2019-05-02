@@ -64,4 +64,4 @@ Authored by
 & [Trent Hone](https://www.linkedin.com/in/trent-hone-5a42775/)
 with help and support from [Excella](https://www.excella.com) and many of their colleagues.
 
-_Submit suggestions via the [GitHub repository](https://github.com/DaneWeber/manifesto-for-scaling-agility-draft)._
+_Submit suggestions via the [GitHub repository](https://github.com/manifestoforscalingagility/ManifestoForScalingAgility.github.io)._
