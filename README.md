@@ -1,7 +1,7 @@
 # Manifesto for Scaling Agility
 **An extension of the original [Manifesto for Agile Software Development](http://agilemanifesto.org/)**
 
-Draft for Release – Version 0.9
+Draft for Release – Version 0.9.1
 
 Revised 7 September 2018
 
@@ -39,7 +39,7 @@ While there is value in the items on the right and the left; we value the items 
 
 3. Respect and trust your people; foster a climate of open, honest, rapid, and empathetic communication.
 
-4. Continuously improve across all levels and maintain focus on the whole; prioritize collective high performance over the performance of any individual team.
+4. Continuously reflect and improve across all levels and maintain focus on the whole; prioritize collective high performance over the performance of any individual team.
 
 5. Keep teams and their work loosely coupled to preserve flexibility; minimize handoffs and dependencies with cross-functional teams and clearly decomposed work.
 
