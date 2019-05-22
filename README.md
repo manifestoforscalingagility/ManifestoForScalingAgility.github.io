@@ -33,25 +33,25 @@ While there is value in the items on the right and the left; we value the items 
 
 ## Supporting Principles:
 
-1. If you can achieve your goals with a single team, do not scale. Employ the minimum number of people required to meet your strategic outcomes.
+1. <a id="principle-1"></a>If you can achieve your goals with a single team, do not scale. Employ the minimum number of people required to meet your strategic outcomes.
 
-2. If you have a single team and it cannot deliver effectively using Agile principles and practices, do not scale. Succeed with a single team first.
+2. <a id="principle-2"></a>If you have a single team and it cannot deliver effectively using Agile principles and practices, do not scale. Succeed with a single team first.
 
-3. Respect and trust your people; foster a climate of open, honest, rapid, and empathetic communication.
+3. <a id="principle-3"></a>Respect and trust your people; foster a climate of open, honest, rapid, and empathetic communication.
 
-4. Continuously reflect and improve across all levels and maintain focus on the whole; prioritize collective high performance over the performance of any individual team.
+4. <a id="principle-4"></a>Continuously reflect and improve across all levels and maintain focus on the whole; prioritize collective high performance over the performance of any individual team.
 
-5. Keep teams and their work loosely coupled to preserve flexibility; minimize handoffs and dependencies with cross-functional teams and clearly decomposed work.
+5. <a id="principle-5"></a>Keep teams and their work loosely coupled to preserve flexibility; minimize handoffs and dependencies with cross-functional teams and clearly decomposed work.
 
-6. Radiate information between and among teams to develop shared understanding and promote asynchronous communication; create visibility across the entire work system.
+6. <a id="principle-6"></a>Radiate information between and among teams to develop shared understanding and promote asynchronous communication; create visibility across the entire work system.
 
-7. Aim for a minimally viable bureaucracy and nothing more; effective and repeatable practices, policies, and procedures will emerge as you scale.
+7. <a id="principle-7"></a>Aim for a minimally viable bureaucracy and nothing more; effective and repeatable practices, policies, and procedures will emerge as you scale.
 
-8. Decentralize decision-making; push authority to teams so that they can quickly take advantage of emerging opportunities.
+8. <a id="principle-8"></a>Decentralize decision-making; push authority to teams so that they can quickly take advantage of emerging opportunities.
 
-9. Prioritize experimentation for each individual team over conformity across the organization. Celebrate the learning that comes from experimentation—successes and failures—across all teams.
+9. <a id="principle-9"></a>Prioritize experimentation for each individual team over conformity across the organization. Celebrate the learning that comes from experimentation—successes and failures—across all teams.
 
-10. Ensure each team is working towards the shared vision and delivering real value regularly and consistently. Demonstrate progress with frequent validations by stakeholders.
+10. <a id="principle-10"></a>Ensure each team is working towards the shared vision and delivering real value regularly and consistently. Demonstrate progress with frequent validations by stakeholders.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
 
