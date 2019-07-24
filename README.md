@@ -37,7 +37,7 @@ While there is value in the items on the right and the left; we value the items 
 
 2. <a id="principle-2"></a>If you have a single team and it cannot deliver effectively using Agile principles and practices, do not scale. Succeed with a single team first.
 
-3. <a id="principle-3"></a>Respect and trust your people; foster a climate of open, honest, rapid, and empathetic communication.
+3. <a id="principle-3"></a>Respect, trust, and be kind to your people; foster a climate of open, honest, rapid, and empathetic communication.
 
 4. <a id="principle-4"></a>Continuously reflect and improve across all levels and maintain focus on the whole; prioritize collective high performance over the performance of any individual team.
 
