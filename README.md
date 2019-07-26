@@ -1,7 +1,7 @@
 # Manifesto for Scaling Agility
 **An extension of the original [Manifesto for Agile Software Development](http://agilemanifesto.org/)**
 
-Draft for Release – Version 0.9.1
+Draft for Release – Version 0.9.2
 
 Revised 16 May 2019
 
