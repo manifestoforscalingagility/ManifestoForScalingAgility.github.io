@@ -65,3 +65,5 @@ Authored by
 with help and support from [Excella](https://www.excella.com) and many of their colleagues.
 
 _Submit suggestions via the [GitHub repository](https://github.com/manifestoforscalingagility/ManifestoForScalingAgility.github.io)._
+
+Attribution for the background photo of Matterhorn _original file:_ Marcel Wiesweg _derivative work:_ Zacharie Grossen [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
