@@ -41,7 +41,7 @@ While there is value in the items on the right and the left; we value the items 
 
 4. <a id="principle-4"></a>Continuously reflect and improve across all levels and maintain focus on the whole; prioritize collective high performance over the performance of any individual team.
 
-5. <a id="principle-5"></a>Keep teams and their work loosely coupled to preserve flexibility; minimize handoffs and dependencies with cross-functional teams and clearly decomposed work.
+5. <a id="principle-5"></a>Keep teams and their work loosely coupled to preserve flexibility; minimize handoffs and eliminate dependencies with cross-functional teams and clearly decomposed work.
 
 6. <a id="principle-6"></a>Radiate information between and among teams to develop shared understanding and promote asynchronous communication; create visibility across the entire work system.
 
