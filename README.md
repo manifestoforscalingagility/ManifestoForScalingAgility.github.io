@@ -1,7 +1,7 @@
 # Manifesto for Scaling Agility
 **An extension of the original [Manifesto for Agile Software Development](http://agilemanifesto.org/)**
 
-Draft for Release – Version 0.9.1
+Draft for Release – Version 0.9.2
 
 Revised 16 May 2019
 
@@ -37,7 +37,7 @@ While there is value in the items on the right and the left; we value the items 
 
 2. <a id="principle-2"></a>If you have a single team and it cannot deliver effectively using Agile principles and practices, do not scale. Succeed with a single team first.
 
-3. <a id="principle-3"></a>Respect and trust your people; foster a climate of open, honest, rapid, and empathetic communication.
+3. <a id="principle-3"></a>Respect, trust, and be kind to your people; foster a climate of open, honest, rapid, and empathetic communication.
 
 4. <a id="principle-4"></a>Continuously reflect and improve across all levels and maintain focus on the whole; prioritize collective high performance over the performance of any individual team.
 
@@ -65,3 +65,5 @@ Authored by
 with help and support from [Excella](https://www.excella.com) and many of their colleagues.
 
 _Submit suggestions via the [GitHub repository](https://github.com/manifestoforscalingagility/ManifestoForScalingAgility.github.io)._
+
+Attribution for the background photo of Matterhorn _original file:_ Marcel Wiesweg _derivative work:_ Zacharie Grossen [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)

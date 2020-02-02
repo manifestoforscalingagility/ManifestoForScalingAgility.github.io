@@ -1,8 +1,10 @@
 ---
 ---
 
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,900&display=swap');
 @import "{{ site.theme }}";
 html body {
+  font-weight: normal;
   background-color: #183583;
   background-position: center center;
   background-size: cover;
