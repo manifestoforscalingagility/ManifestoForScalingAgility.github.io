@@ -3,7 +3,8 @@
 
 @import "{{ site.theme }}";
 html body {
-  font-weight: 450;
+  font-weight: 400;
+  font-family: "Martel Sans","Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   background-color: #183583;
   background-position: center center;
   background-size: cover;
